@@ -2,7 +2,7 @@
 Full AWS-CDK code for Automated SOCI implementation with AWS Fargate and CloudWatch Dashboard showing comparison with non-SOCI.
 
 For more details on how to deploy the infrastructure and the solution details, please refer to the Blog Post:
-* [Accelerating LLM Inference on ECS: Leveraging SOCI with AWS Fargate for Lightning-Fast Container Startup)](https://vivek-aws.medium.com/deepseek-r1-inference-on-aws-lambda-using-function-url-no-api-gateway-needed-4d4e4d183164).
+* [Accelerating LLM Inference on ECS: Leveraging SOCI with AWS Fargate for Lightning-Fast Container Startup)](https://vivek-aws.medium.com/accelerating-llm-inference-on-ecs-leveraging-soci-with-aws-fargate-for-lightning-fast-container-6fb6b7df5b93).
 
 ## Useful commands
 
